@@ -1,15 +1,16 @@
 # Go2ShellAppleScript
+
 Open a terminal window to the current directory in Finder by a simple click
 
-## Usage 
+## Usage
 
 - Open script with Script Editor.
-	- For Terminal: go2shell.scpt
-	- For iTerm2: go2shell_iTerm2.scpt 
+  - For Terminal: go2shell.scpt
+  - For iTerm2: go2shell_iTerm2.scpt, modified from this [repo](https://github.com/Breathleas/Go2Shell) for new tab;
 
 ![script](https://github.com/wonderyue/Go2ShellAppleScript/raw/master/script.png)
-	
-- Export script as app use Script Editor. 
+
+- Export script as app use Script Editor.
 
 ![app](https://github.com/wonderyue/Go2ShellAppleScript/raw/master/app.png)
 
